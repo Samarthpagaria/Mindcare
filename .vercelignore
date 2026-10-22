@@ -1,0 +1,14 @@
+# Local Environment and secrets
+.env
+.env.*
+*.env
+
+# Logs and git
+*.log
+.git
+.vscode
+.idea
+
+# Build outputs
+dist
+dist-ssr
