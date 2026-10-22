@@ -39,7 +39,7 @@ router.post('/chat', async (req, res) => {
     console.error('AI Chat Route Error:', error);
     res.status(500).json({ 
       error: 'AI service error. Please try again.',
-      details: process.env.NODE_ENV === 'development' ? error.message : undefined
+      details: error.message || error.toString()
     });
   }
 });
