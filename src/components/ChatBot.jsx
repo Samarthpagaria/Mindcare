@@ -17,7 +17,7 @@ import {
   AlertCircle
 } from 'lucide-react';
 
-const AI_CHAT_URL = 'http://localhost:5000/api/ai/chat';
+const AI_CHAT_URL = '/api/ai/chat';
 
 export function ChatBot() {
   const [messages, setMessages] = useState([

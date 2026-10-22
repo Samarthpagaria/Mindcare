@@ -34,7 +34,7 @@ import {
   X
 } from 'lucide-react';
 
-const API_BASE = "http://localhost:5000/api/peer";
+const API_BASE = "/api/peer";
 
 // Helper to format relative time
 function formatTimeAgo(dateString) {

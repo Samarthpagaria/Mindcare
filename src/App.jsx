@@ -45,7 +45,7 @@ import CollegeAdmin from "./components/collegeAdmin/CollegeAdmin.jsx";
 // Context for Firebase and Auth
 export const FirebaseContext = createContext(null);
 
-const API_URL = "http://localhost:5000/api/auth";
+const API_URL = "/api/auth";
 
 // Auth Provider to manage user state
 const AuthProvider = ({ children }) => {

@@ -1,8 +1,7 @@
 // client/src/services/api.js
 import axios from 'axios';
 
-// Create React App requires REACT_APP_ prefix for environment variables
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = '/api';
 
 // Create axios instance with default config
 const api = axios.create({

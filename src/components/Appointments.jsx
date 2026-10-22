@@ -40,7 +40,7 @@ import {
   Loader2
 } from 'lucide-react';
 
-const API_BASE = "http://localhost:5000/api/counselors";
+const API_BASE = "/api/counselors";
 
 const INITIAL_APPOINTMENTS = [
   {

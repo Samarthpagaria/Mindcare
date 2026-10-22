@@ -41,7 +41,7 @@ import {
   RefreshCw
 } from 'lucide-react';
 
-const API_BASE = "http://localhost:5000/api/counselors";
+const API_BASE = "/api/counselors";
 
 export function CounselorSearch() {
   const navigate = useNavigate();
