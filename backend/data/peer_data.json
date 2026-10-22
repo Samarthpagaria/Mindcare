@@ -1,0 +1,238 @@
+{
+  "posts": [
+    {
+      "id": "post-1792686558118-w8w54n",
+      "title": "Overcoming morning anxiety before presentations",
+      "content": "Sharing my story and asking how others center themselves before speaking in public.",
+      "category": "general",
+      "tags": [
+        "general",
+        "support"
+      ],
+      "author": "Kind Peer",
+      "authorInitials": "KP",
+      "authorId": "guest_hrs39yj",
+      "isAnonymous": false,
+      "upvotes": 1,
+      "downvotes": 0,
+      "userVotes": {
+        "guest_hrs39yj": "up"
+      },
+      "bookmarks": [],
+      "createdAt": "2026-10-22T16:29:18.118Z",
+      "replies": []
+    },
+    {
+      "id": "post-1792686195838-8gqmnr",
+      "title": "Test Post",
+      "content": "Test post content",
+      "category": "anxiety",
+      "tags": [
+        "anxiety",
+        "support"
+      ],
+      "author": "Alex M.",
+      "authorInitials": "AM",
+      "authorId": "user-anonymous",
+      "isAnonymous": false,
+      "upvotes": 2,
+      "downvotes": 0,
+      "userVotes": {
+        "user-anonymous": "up",
+        "guest_hrs39yj": "up"
+      },
+      "bookmarks": [],
+      "createdAt": "2026-10-22T16:23:15.838Z",
+      "replies": [
+        {
+          "id": "reply-1792686492658-jqqcg5",
+          "postId": "post-1792686195838-8gqmnr",
+          "content": "This is an authentic supportive reply from testing!",
+          "author": "Kind Peer",
+          "authorInitials": "KP",
+          "authorId": "guest_hrs39yj",
+          "createdAt": "2026-10-22T16:28:12.658Z",
+          "upvotes": 0,
+          "userVotes": {}
+        }
+      ]
+    },
+    {
+      "id": "post-1",
+      "title": "How do you deal with anxiety before important meetings?",
+      "content": "I have a big presentation tomorrow and I'm feeling really anxious. My heart is racing and I can't focus. What techniques have worked for you in similar situations?",
+      "author": "Alex M.",
+      "authorId": "user-alex",
+      "authorInitials": "AM",
+      "category": "anxiety",
+      "tags": [
+        "anxiety",
+        "work",
+        "presentation"
+      ],
+      "upvotes": 15,
+      "downvotes": 0,
+      "userVotes": {
+        "user-tester": "up"
+      },
+      "bookmarks": [
+        "user-current",
+        "user-tester"
+      ],
+      "createdAt": "2026-10-22T11:00:00.000Z",
+      "replies": [
+        {
+          "id": "reply-1",
+          "postId": "post-1",
+          "content": "I use the 4-7-8 breathing technique before important meetings. Breathe in for 4, hold for 7, exhale for 8. It really helps reset the nervous system.",
+          "author": "Jennifer T.",
+          "authorId": "user-jennifer",
+          "authorInitials": "JT",
+          "createdAt": "2026-10-22T12:00:00.000Z",
+          "upvotes": 6,
+          "userVotes": {}
+        },
+        {
+          "id": "reply-2",
+          "postId": "post-1",
+          "content": "What works for me is arriving early and doing a quick visualization exercise. I imagine the presentation going well and the audience being receptive.",
+          "author": "Tom B.",
+          "authorId": "user-tom",
+          "authorInitials": "TB",
+          "createdAt": "2026-10-22T12:15:00.000Z",
+          "upvotes": 4,
+          "userVotes": {}
+        },
+        {
+          "id": "reply-1792686213100-fztlcp",
+          "postId": "post-1",
+          "content": "This is a real dynamic reply test!",
+          "author": "Support Peer",
+          "authorInitials": "SP",
+          "authorId": "user-anonymous",
+          "createdAt": "2026-10-22T16:23:33.100Z",
+          "upvotes": 0,
+          "userVotes": {}
+        }
+      ]
+    },
+    {
+      "id": "post-2",
+      "title": "Small wins worth celebrating today",
+      "content": "Today I managed to go for a 20-minute walk outside. It might not seem like much, but for someone dealing with depression, it felt like climbing a mountain. What are your small wins this week?",
+      "author": "Sarah J.",
+      "authorId": "user-sarah",
+      "authorInitials": "SJ",
+      "category": "depression",
+      "tags": [
+        "depression",
+        "victory",
+        "motivation"
+      ],
+      "upvotes": 29,
+      "downvotes": 0,
+      "userVotes": {},
+      "bookmarks": [],
+      "createdAt": "2026-10-22T09:30:00.000Z",
+      "replies": [
+        {
+          "id": "reply-3",
+          "postId": "post-2",
+          "content": "Proud of you Sarah! That walk is a massive victory. My win was making my bed and drinking water first thing this morning.",
+          "author": "Kavita D.",
+          "authorId": "user-kavita",
+          "authorInitials": "KD",
+          "createdAt": "2026-10-22T10:15:00.000Z",
+          "upvotes": 8,
+          "userVotes": {}
+        }
+      ]
+    },
+    {
+      "id": "post-3",
+      "title": "Building healthy boundaries with family members",
+      "content": "I'm struggling to set boundaries with family who don't understand mental health challenges. They mean well, but their unsolicited advice often makes me feel worse. How do you communicate your limits gently?",
+      "author": "Mike R.",
+      "authorId": "user-mike",
+      "authorInitials": "MR",
+      "category": "relationships",
+      "tags": [
+        "boundaries",
+        "family",
+        "support"
+      ],
+      "upvotes": 21,
+      "downvotes": 1,
+      "userVotes": {},
+      "bookmarks": [],
+      "createdAt": "2026-10-22T07:45:00.000Z",
+      "replies": [
+        {
+          "id": "reply-4",
+          "postId": "post-3",
+          "content": "A simple phrase I use is: 'I appreciate that you care about me, but right now I just need listening and presence rather than solutions.' It sets a clear tone without attacking them.",
+          "author": "Dr. Ananya S.",
+          "authorId": "user-ananya",
+          "authorInitials": "AS",
+          "createdAt": "2026-10-22T08:30:00.000Z",
+          "upvotes": 12,
+          "userVotes": {}
+        }
+      ]
+    },
+    {
+      "id": "post-4",
+      "title": "Daily grounding habits that keep stress manageable",
+      "content": "What is one 5-minute daily habit that has genuinely lowered your chronic stress levels? For me, keeping 10 minutes of screen-free sunlight every morning has been a gamechanger.",
+      "author": "Emma L.",
+      "authorId": "user-emma",
+      "authorInitials": "EL",
+      "category": "selfcare",
+      "tags": [
+        "mindfulness",
+        "routine",
+        "calm"
+      ],
+      "upvotes": 19,
+      "downvotes": 0,
+      "userVotes": {},
+      "bookmarks": [],
+      "createdAt": "2026-10-22T05:20:00.000Z",
+      "replies": []
+    },
+    {
+      "id": "post-5",
+      "title": "Navigating imposter syndrome after a promotion",
+      "content": "Recently got promoted, but feeling like an accidental impostor. The stress of having to prove myself constantly is draining. How do you remind yourself that you earned your spot?",
+      "author": "David K.",
+      "authorId": "user-david",
+      "authorInitials": "DK",
+      "category": "work",
+      "tags": [
+        "work",
+        "imposter-syndrome",
+        "confidence"
+      ],
+      "upvotes": 35,
+      "downvotes": 0,
+      "userVotes": {},
+      "bookmarks": [
+        "user-current"
+      ],
+      "createdAt": "2026-10-21T18:00:00.000Z",
+      "replies": [
+        {
+          "id": "reply-5",
+          "postId": "post-5",
+          "content": "I keep a 'brag folder' of positive feedback and milestones I've achieved. When imposter syndrome creeps in, I look through hard facts instead of anxious emotions.",
+          "author": "Rohit P.",
+          "authorId": "user-rohit",
+          "authorInitials": "RP",
+          "createdAt": "2026-10-21T19:30:00.000Z",
+          "upvotes": 11,
+          "userVotes": {}
+        }
+      ]
+    }
+  ]
+}

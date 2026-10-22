@@ -1,0 +1,422 @@
+{
+  "counselors": [
+    {
+      "id": "counselor-1",
+      "name": "Dr. Sarah Johnson",
+      "title": "Licensed Clinical Psychologist",
+      "degree": "Ph.D., ABPP",
+      "specialties": [
+        "Anxiety Disorders",
+        "Depression",
+        "Cognitive Behavioral",
+        "Mindfulness-Based"
+      ],
+      "rating": 4.9,
+      "reviews": 128,
+      "experience": "12 years",
+      "location": "New York, NY",
+      "state": "ny",
+      "price": "$120",
+      "priceNum": 120,
+      "availability": "Available Today",
+      "availableSlots": [
+        "10:00 AM",
+        "11:30 AM",
+        "02:00 PM",
+        "04:30 PM"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "verified": true,
+      "profileImage": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=400",
+      "color": "from-teal-500 to-emerald-600",
+      "description": "I specialize in helping individuals overcome severe anxiety, panic, and persistent depression using evidence-based Cognitive Behavioral Therapy (CBT) and grounding mindfulness.",
+      "education": [
+        "Ph.D. in Clinical Psychology - Columbia University",
+        "M.A. in Psychology - New York University",
+        "Clinical Fellow - Mount Sinai Medical Center"
+      ],
+      "approachTypes": [
+        "Cognitive Behavioral Therapy (CBT)",
+        "Mindfulness-Based Stress Reduction",
+        "Solution-Focused Therapy"
+      ],
+      "sessionTypes": [
+        "Video Session",
+        "Chat Session",
+        "In-Person"
+      ],
+      "phone": "+1 (212) 555-0142",
+      "email": "dr.sarah.johnson@mindcare.org",
+      "clientReviews": [
+        {
+          "author": "Marcus K.",
+          "rating": 5,
+          "date": "1 week ago",
+          "comment": "Dr. Johnson completely changed how I look at my workplace anxiety. The practical grounding exercises she taught me work instantly."
+        },
+        {
+          "author": "Elena P.",
+          "rating": 5,
+          "date": "3 weeks ago",
+          "comment": "Warm, compassionate, and deeply attentive. I felt heard from the very first minute of our video session."
+        }
+      ]
+    },
+    {
+      "id": "counselor-2",
+      "name": "Michael Chen, LMFT",
+      "title": "Licensed Marriage & Family Therapist",
+      "degree": "M.S., LMFT",
+      "specialties": [
+        "Relationships",
+        "Family Therapy",
+        "Couples Therapy",
+        "Communication"
+      ],
+      "rating": 4.8,
+      "reviews": 94,
+      "experience": "8 years",
+      "location": "Los Angeles, CA",
+      "state": "ca",
+      "price": "$110",
+      "priceNum": 110,
+      "availability": "Available Tomorrow",
+      "availableSlots": [
+        "09:00 AM",
+        "01:00 PM",
+        "03:30 PM",
+        "05:00 PM"
+      ],
+      "languages": [
+        "English",
+        "Mandarin"
+      ],
+      "verified": true,
+      "profileImage": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&q=80&w=400",
+      "color": "from-blue-500 to-indigo-600",
+      "description": "I work with couples, adolescents, and families to mend strained communication channels, resolve recurring conflicts, and restore emotional intimacy and safety.",
+      "education": [
+        "M.S. in Marriage & Family Therapy - USC",
+        "B.A. in Psychology - UCLA",
+        "Gottman Method Certified Educator (Level 3)"
+      ],
+      "approachTypes": [
+        "Emotionally Focused Therapy (EFT)",
+        "Gottman Couples Method",
+        "Structural Family Therapy"
+      ],
+      "sessionTypes": [
+        "Video Session",
+        "Couples Therapy",
+        "Chat Session"
+      ],
+      "phone": "+1 (310) 555-0189",
+      "email": "michael.chen@mindcare.org",
+      "clientReviews": [
+        {
+          "author": "David & Chloe",
+          "rating": 5,
+          "date": "2 weeks ago",
+          "comment": "Michael helped my partner and me bridge a communication gap that we had been struggling with for over 2 years."
+        }
+      ]
+    },
+    {
+      "id": "counselor-3",
+      "name": "Dr. Emily Rodriguez",
+      "title": "Licensed Clinical Social Worker & Trauma Specialist",
+      "degree": "Ph.D., LCSW",
+      "specialties": [
+        "Trauma & PTSD",
+        "Depression",
+        "Addiction",
+        "Somatic Therapy"
+      ],
+      "rating": 4.9,
+      "reviews": 162,
+      "experience": "15 years",
+      "location": "Austin, TX",
+      "state": "tx",
+      "price": "$100",
+      "priceNum": 100,
+      "availability": "Available Today",
+      "availableSlots": [
+        "10:30 AM",
+        "01:30 PM",
+        "04:00 PM"
+      ],
+      "languages": [
+        "English",
+        "Spanish",
+        "Portuguese"
+      ],
+      "verified": true,
+      "profileImage": "https://images.unsplash.com/photo-1594824813583-7c87c0b05b76?auto=format&fit=crop&q=80&w=400",
+      "color": "from-purple-500 to-pink-600",
+      "description": "Specializing in trauma-informed somatic healing and helping clients rebuild a sense of self-trust after complex PTSD, emotional burnout, or recovery from addiction.",
+      "education": [
+        "Ph.D. in Clinical Social Work - UT Austin",
+        "M.S.W. - University of Houston",
+        "EMDR International Association Certified Practitioner"
+      ],
+      "approachTypes": [
+        "Eye Movement Desensitization & Reprocessing (EMDR)",
+        "Trauma-Focused CBT",
+        "Internal Family Systems (IFS)"
+      ],
+      "sessionTypes": [
+        "Video Session",
+        "Intensive Trauma Session",
+        "In-Person"
+      ],
+      "phone": "+1 (512) 555-0167",
+      "email": "dr.emily.rodriguez@mindcare.org",
+      "clientReviews": [
+        {
+          "author": "Samantha W.",
+          "rating": 5,
+          "date": "4 days ago",
+          "comment": "EMDR with Dr. Rodriguez was life-changing for my PTSD triggers. She creates such an emotionally safe space."
+        }
+      ]
+    },
+    {
+      "id": "counselor-4",
+      "name": "James Wilson, LPC",
+      "title": "Licensed Professional Counselor",
+      "degree": "M.A., LPC",
+      "specialties": [
+        "Anxiety Disorders",
+        "Workplace Stress",
+        "Mindfulness-Based",
+        "Burnout"
+      ],
+      "rating": 4.7,
+      "reviews": 79,
+      "experience": "6 years",
+      "location": "Denver, CO",
+      "state": "co",
+      "price": "$95",
+      "priceNum": 95,
+      "availability": "Available this week",
+      "availableSlots": [
+        "11:00 AM",
+        "02:30 PM",
+        "05:00 PM"
+      ],
+      "languages": [
+        "English"
+      ],
+      "verified": true,
+      "profileImage": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&q=80&w=400",
+      "color": "from-amber-500 to-orange-600",
+      "description": "Focusing on men's mental health, high-pressure career burnout, and practical life transitions using Acceptance & Commitment Therapy (ACT).",
+      "education": [
+        "M.A. in Counseling Psychology - University of Denver",
+        "B.A. in Psychology - Colorado State University"
+      ],
+      "approachTypes": [
+        "Acceptance and Commitment Therapy (ACT)",
+        "Mindfulness-Based Stress Reduction",
+        "Behavioral Activation"
+      ],
+      "sessionTypes": [
+        "Video Session",
+        "Chat Session",
+        "Phone Consultation"
+      ],
+      "phone": "+1 (303) 555-0123",
+      "email": "james.wilson@mindcare.org",
+      "clientReviews": [
+        {
+          "author": "Ryan T.",
+          "rating": 5,
+          "date": "1 month ago",
+          "comment": "James gave me actionable frameworks to handle extreme corporate stress without feeling defeated."
+        }
+      ]
+    },
+    {
+      "id": "counselor-5",
+      "name": "Dr. Priya Sharma, MD",
+      "title": "Board-Certified Adult Psychiatrist",
+      "degree": "M.D., FAPA",
+      "specialties": [
+        "Depression",
+        "Anxiety Disorders",
+        "Cognitive Behavioral",
+        "Mood Disorders"
+      ],
+      "rating": 4.95,
+      "reviews": 210,
+      "experience": "16 years",
+      "location": "Chicago, IL",
+      "state": "il",
+      "price": "$140",
+      "priceNum": 140,
+      "availability": "Available Today",
+      "availableSlots": [
+        "09:30 AM",
+        "12:00 PM",
+        "03:00 PM",
+        "06:00 PM"
+      ],
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "verified": true,
+      "profileImage": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400",
+      "color": "from-cyan-500 to-blue-600",
+      "description": "Comprehensive psychiatric evaluations, integrative mind-body health, and personalized psychotherapeutic treatment for depression, anxiety, and adult ADHD.",
+      "education": [
+        "M.D. - Northwestern University Feinberg School of Medicine",
+        "Psychiatry Residency - University of Chicago Hospitals",
+        "Fellow, American Psychiatric Association (FAPA)"
+      ],
+      "approachTypes": [
+        "Integrative Psychiatry",
+        "Cognitive Restructuring",
+        "Psychodynamic Psychotherapy"
+      ],
+      "sessionTypes": [
+        "Video Session",
+        "Comprehensive Evaluation",
+        "Chat Session"
+      ],
+      "phone": "+1 (312) 555-0199",
+      "email": "dr.priya.sharma@mindcare.org",
+      "clientReviews": [
+        {
+          "author": "Anita M.",
+          "rating": 5,
+          "date": "1 week ago",
+          "comment": "Dr. Sharma's holistic understanding of biological and cognitive aspects of mental health gave me peace of mind."
+        }
+      ]
+    },
+    {
+      "id": "counselor-6",
+      "name": "David Vance, LCSW",
+      "title": "Licensed Clinical Addiction Specialist",
+      "degree": "M.S.W., LCAS",
+      "specialties": [
+        "Addiction",
+        "Trauma & PTSD",
+        "Family Therapy",
+        "Self Care"
+      ],
+      "rating": 4.85,
+      "reviews": 88,
+      "experience": "10 years",
+      "location": "Seattle, WA",
+      "state": "wa",
+      "price": "$105",
+      "priceNum": 105,
+      "availability": "Available Tomorrow",
+      "availableSlots": [
+        "10:00 AM",
+        "01:00 PM",
+        "04:00 PM"
+      ],
+      "languages": [
+        "English"
+      ],
+      "verified": true,
+      "profileImage": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?auto=format&fit=crop&q=80&w=400",
+      "color": "from-teal-600 to-cyan-700",
+      "description": "Supporting sustained recovery, substance harm-reduction, and boundary-building for individuals and their loved ones in an entirely judgment-free space.",
+      "education": [
+        "M.S.W. - University of Washington",
+        "B.S. in Behavioral Neuroscience - Seattle University"
+      ],
+      "approachTypes": [
+        "Motivational Interviewing",
+        "Dialectical Behavior Therapy (DBT)",
+        "Relapse Prevention Therapy"
+      ],
+      "sessionTypes": [
+        "Video Session",
+        "In-Person",
+        "Group Recovery"
+      ],
+      "phone": "+1 (206) 555-0155",
+      "email": "david.vance@mindcare.org",
+      "clientReviews": [
+        {
+          "author": "Chris L.",
+          "rating": 5,
+          "date": "3 weeks ago",
+          "comment": "David was there for me when things felt darkest. His compassionate, non-judgmental guidance was pivotal."
+        }
+      ]
+    }
+  ],
+  "appointments": [
+    {
+      "id": "app-1792687167906-ywdff",
+      "counselorId": "counselor-1",
+      "counselorName": "Dr. Sarah Johnson",
+      "counselorTitle": "Licensed Clinical Psychologist",
+      "counselorImage": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=400",
+      "counselorLocation": "New York, NY",
+      "userId": "guest_hrs39yj",
+      "clientName": "Kind Client",
+      "clientEmail": "",
+      "date": "Tomorrow",
+      "time": "11:30 AM",
+      "duration": "50 minutes",
+      "sessionType": "Video Session",
+      "status": "confirmed",
+      "price": "$120",
+      "meetingLink": "https://meet.mindcare.org/room-mvjrnjj6-m980rr",
+      "userNotes": "Focusing on anxiety management and sleep habits",
+      "isAnonymous": false,
+      "createdAt": "2026-10-22T16:39:27.906Z"
+    },
+    {
+      "id": "app-1792686848281-oome4",
+      "counselorId": "counselor-1",
+      "counselorName": "Dr. Sarah Johnson",
+      "counselorTitle": "Licensed Clinical Psychologist",
+      "counselorImage": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=400",
+      "counselorLocation": "New York, NY",
+      "userId": "user-guest",
+      "clientName": "Kind Client",
+      "clientEmail": "",
+      "date": "Tomorrow",
+      "time": "10:00 AM",
+      "duration": "50 minutes",
+      "sessionType": "Video Session",
+      "status": "confirmed",
+      "price": "$120",
+      "meetingLink": "https://meet.mindcare.org/room-mvjrgowp-6tl2tu",
+      "userNotes": "Initial anxiety check-in",
+      "isAnonymous": false,
+      "createdAt": "2026-10-22T16:34:08.281Z"
+    },
+    {
+      "id": "app-101",
+      "counselorId": "counselor-1",
+      "counselorName": "Dr. Sarah Johnson",
+      "counselorTitle": "Licensed Clinical Psychologist",
+      "counselorImage": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=400",
+      "userId": "user-current",
+      "clientName": "You",
+      "date": "Tomorrow",
+      "dateTime": "2026-10-23T14:00:00.000Z",
+      "time": "02:00 PM - 02:50 PM",
+      "duration": "50 minutes",
+      "sessionType": "Video Session",
+      "status": "confirmed",
+      "price": "$120",
+      "meetingLink": "https://meet.mindcare.org/room/dr-sarah-101",
+      "userNotes": "Focus on anxiety management techniques and upcoming presentations",
+      "createdAt": "2026-10-22T10:00:00.000Z"
+    }
+  ],
+  "inquiries": []
+}
