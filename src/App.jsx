@@ -34,7 +34,7 @@ import UserDashboard from "./components/dashboard/UserDashboard";
 import DoctorDashboard from "./components/dashboard/DoctorDashboard";
 import PendingVerification from "./components/dashboard/PendingVerification";
 import Spinner from "./components/common/Spinner";
-import { HomePage } from "./components/Homepage";
+import { HomePage } from "./components/HomePage";
 import PHQ9Assessment from "./components/phq_assessments/Phq_assesments.jsx";
 import GAD7Assessment from "./components/Gad_Assessment/Gad_assessment.jsx";
 import GHQ12Assessment from "./components/Ghq_assessment/Ghq_assessment.jsx";
